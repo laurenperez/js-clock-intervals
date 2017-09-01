@@ -1,7 +1,15 @@
 #clock {
 }
 
+body {
+  background: url(http://2.bp.blogspot.com/-m98Rfn73tKQ/T7YkNBS22eI/AAAAAAAACJs/o41qEBTh0qQ/s1600/cat_print_frank.png);
+  background-size: cover;
+}
+
 #clock img {
+  position: absolute;
+  top: 20%;
+  right: 50%;
 }
 
 #hour {
